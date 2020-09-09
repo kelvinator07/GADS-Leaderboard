@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GADS</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="leader_text">LEADER BOARD</string>
+    <string name="submit_btn">Submit</string>
+</resources>
