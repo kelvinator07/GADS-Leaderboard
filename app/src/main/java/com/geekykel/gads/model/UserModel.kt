@@ -1,4 +1,4 @@
-package com.noha.gadsleaderboard.model
+package com.geekykel.gads.model
 
 data class UserModel(
     var firstName: String = "",
